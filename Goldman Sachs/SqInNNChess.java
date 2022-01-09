@@ -1,7 +1,7 @@
 import java.util.*;
 //Que --->>> https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1#
 //1
-public class SquareInNNChess {
+public class SqInNNChess {
       public static long squaresInChessBoard(long N) {
             // code here
             if (N == 1)
