@@ -10,7 +10,6 @@ class Node {
             this.next = null;
       }
 }
-
 public class DeleteNNodesAfterMNodesOfLinkedList {
       public static void linkdelete(Node head, int M, int N) {
             Node temp = head;
